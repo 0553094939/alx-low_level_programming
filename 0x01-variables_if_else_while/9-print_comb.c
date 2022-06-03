@@ -16,10 +16,10 @@ int main(void)
 			continue;
 
 		putchar(',');
+		putchar(' ');
 	}
 
 	putchar('\n');
-	putchar(' ');
 
 	return (0);
 }
