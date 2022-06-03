@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * maine - base 16
+ * main - base 16
  *
  * Return: Always 0.
  */
