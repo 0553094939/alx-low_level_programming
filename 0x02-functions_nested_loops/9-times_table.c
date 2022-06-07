@@ -7,7 +7,7 @@
  */
 void times_table(void)
 {
-	int rone, con, d;
+	int rone, cone, d;
 
 	for (rone = 0; rone <= 9; rone++)
 	{
