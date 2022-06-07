@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
  * main -entry point
@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	putchar('_');
+	putchar(');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
