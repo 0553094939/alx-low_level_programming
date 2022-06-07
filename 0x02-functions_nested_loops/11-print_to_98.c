@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_98 - pints from n to 98
+ * print_to_98 - prints from n to 98
  * user inputs number prints 98 , regardless < 98 or > 98
  * @n: number input
  * Return: Always 0 (success)
