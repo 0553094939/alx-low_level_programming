@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inlude "main.h"
+#include "main.h"
 /**
  * print_98 - pints from n to 98
  * user inputs number prints 98 , regardless < 98 or > 98
