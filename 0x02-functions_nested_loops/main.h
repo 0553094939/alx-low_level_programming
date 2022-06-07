@@ -1,13 +1,2 @@
-#include "main.h"
-
-/**
- * main - prints _putchar
- *
- * Return: Always 0.
- */
-int main(void)
-{
-	putchar("_putchar");
-
-		return (0);
-}
+#!/bin/bash
+gcc 0-putchar.c _putchar.c -o 0-putchar
