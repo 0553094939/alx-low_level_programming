@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints fibonnaci numbers of even value terms
- *
+ * main - prints first 98 fibonnaci
+ * starting with 1 and 2
+ * followed by a new line
  * Return: Always 0 (success)
  */
 int main(void)
@@ -13,12 +14,13 @@ int main(void)
 	k = 2;
 
 	printf("%lu", j);
-
-	for (i = 1; i < 91; i++);
+	
+	for (i = 1; i < 91; i++)
 	{
 		printf(", %lu", k);
 		k = k + j;
 		j = k - j;
+
 	}
 
 	j1 = j / 1000000000;
