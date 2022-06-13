@@ -1,1 +1,1 @@
-readme for debugging
+pointers
